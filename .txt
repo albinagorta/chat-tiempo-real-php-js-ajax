@@ -1,0 +1,1 @@
+Aplicación web de chat usando PHP con MySQL y JavaScript Ajax
